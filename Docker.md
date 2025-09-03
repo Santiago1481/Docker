@@ -115,3 +115,6 @@ docker-compose down
 
 Este archivo está diseñado para ayudarte a comenzar rápido con Docker.  
 Si estás usando **React Native + Expo** o backend con **TypeScript**, adapta el Dockerfile y `docker-compose.yml` a tu stack específico.
+![alt text](image.png)
+![alt text](image-1.png)
+![alt text](image-2.png)
